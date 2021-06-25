@@ -1,6 +1,6 @@
 package com.vam.model;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class BoardVO {
     /* 게시판 번호 */
